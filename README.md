@@ -1,8 +1,6 @@
 # nosql-challenge
 Module 12 Challenge
 
-# FILES TO BE LOOKED AT: NoSQL_setup_starter.ipynb (FOR THE SETUP) AND NoSQL_analysis_starter.ipynb (FOR THE EXPLORATION ANALYSIS)
-
 # Before You Begin
 Create a new repository for this project called nosql-challenge. Do not add this homework to an existing repository.
 Clone the new repository to your computer.
